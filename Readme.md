@@ -1,9 +1,5 @@
-# commands that are used in this video.
+# commands that are used in this Lecture.
 
-```
-brew install kubectl
-brew install minikube
-```
 ++++++++++++++++++++++++++++++++++++++
 ```
 minikube start
